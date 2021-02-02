@@ -1,0 +1,3 @@
+message: 18LopCSp9E8gEN7DxpvdvqV2pHnzyAMvB8, Coding Dojo
+address: 18LopCSp9E8gEN7DxpvdvqV2pHnzyAMvB8
+signature: IDMmjdfumy5/XSbbWnIis+0fW0trFtSuB33f75nRhc68MFl+qkMAy1UtStTrtSzykKPqqVUjapEASx8Xy8N4J9Y=
